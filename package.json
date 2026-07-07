@@ -1,0 +1,9 @@
+{
+  "name": "scholarship-calculator",
+  "version": "1.0.0",
+  "description": "Intelligent scholarship distribution calculator",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'Static files ready'"
+  }
+}
